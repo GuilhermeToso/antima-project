@@ -1,17 +1,16 @@
 # ANTIMA Project
 
 ---
+The ANTIMA Project it's about the building of a Memory-Reaction based Deep Reinforcement Learning Framework 
 
-The ANTIMA Project it's about the building of a Deep Reinforcement Learning Framework based on some human functionalities as:
+<!-- based on some human functionalities as:
 
-- Emotions
+- Reactions
 - Memories
 - Sensors
 - Actions
-- Survival
-- Preservation
-- Among others
-
+- GeneticAlgorithm Properties
+- Among others -->
 ---
 
 ## Etimology
